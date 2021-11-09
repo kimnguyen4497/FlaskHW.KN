@@ -1,0 +1,9 @@
+
+{% extends "base.html" %}
+
+
+{% block content %}
+<h1>Welcome {{name}}, There are top destinations in this area!</h1>
+<a href="https://www.google.com">goooogle</a>
+
+{% endblock %}
